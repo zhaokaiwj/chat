@@ -13,7 +13,7 @@
 
 Route::get('/', function () {
      phpinfo();
-});
+})->middleware('auth');
 //添加数据库
 Route::get('/con','Mongo\MongoController@index');
 //查询数据库
