@@ -12,7 +12,7 @@
 <script src="/js/jquery-3.2.1.min.js"></script>
 <script>
     $(function(){
-        var web = new WebSocket("ws://39.96.199.180:9502");
+        var web = new WebSocket("ws://chat.zjdgz.com:9502");
         web.onopen = function(){
             //点击发送
             $('#send').on('click',function(){

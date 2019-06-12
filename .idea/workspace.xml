@@ -53,9 +53,9 @@
         <entry file="file://$PROJECT_DIR$/resources/views/test.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.22084805">
-              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
               <folding>
-                <marker date="1560350965752" expanded="true" signature="778:809" placeholder="..." />
+                <marker date="1560353595779" expanded="true" signature="779:810" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -447,7 +447,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1560350965752" expanded="true" signature="778:809" placeholder="..." />
+            <marker date="1560353595779" expanded="true" signature="779:810" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -483,7 +483,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1560350965752" expanded="true" signature="778:809" placeholder="..." />
+            <marker date="1560353595779" expanded="true" signature="779:810" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -623,9 +623,9 @@
     <entry file="file://$PROJECT_DIR$/resources/views/test.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22084805">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
           <folding>
-            <marker date="1560350965752" expanded="true" signature="778:809" placeholder="..." />
+            <marker date="1560353595779" expanded="true" signature="779:810" placeholder="..." />
           </folding>
         </state>
       </provider>
