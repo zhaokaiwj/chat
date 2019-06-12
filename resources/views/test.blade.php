@@ -17,6 +17,7 @@
             //点击发送
             $('#send').on('click',function(){
                 var text = $(this).prev('input').val();
+                $(this).prev('input').val('');
                 var info ={'name':"{{$uname}}",'msg':text};
                 var aa = JSON.stringify(info);
                 web.send(aa);
